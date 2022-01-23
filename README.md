@@ -8,8 +8,8 @@ File "Data Processing và RFM segmentation" xử lý tiền dữ liệu và phâ
 Trước khi tiếp tục chạy file python, hãy đảm bảo bạn đáp ứng các yêu cầu sau:
 * Bạn đã cài đặt phiên bản Python mới nhất. 
 * Trong đó có 2 thư viện cần phải cài đặt để chạy file:
-*       Seaborn: pip install seaborn
-*       Pandas: pip install pandas
+*       pip install seaborn
+*       pip install pandas
 **Những người đóng góp**
     + MAI THANH TUẤN
     + NGUYỄN NHẬT TÙNG
