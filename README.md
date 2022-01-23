@@ -20,7 +20,7 @@ Trước khi tiếp tục chạy file python, hãy đảm bảo bạn đáp ứn
 
 * File Excel đã xử lý, File Python
 
-* Customer Dashboard:https://public.tableau.com/app/profile/stevenguyen/viz/Customer_profileDataGotalent/Dashboard1?publish=yes
+* Customer Dashboard: https://public.tableau.com/app/profile/stevenguyen/viz/Customer_profileDataGotalent/Dashboard1?publish=yes
 
 * Sale Dashboard: https://public.tableau.com/app/profile/stevenguyen/viz/SaleDashboard_16426669972250/Dashboard1?publish=yes
 
