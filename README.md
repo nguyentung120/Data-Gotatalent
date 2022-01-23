@@ -11,6 +11,6 @@ Trước khi tiếp tục chạy file python, hãy đảm bảo bạn đáp ứn
 *       pip install seaborn
 *       pip install pandas
 **Những người đóng góp**
-    + MAI THANH TUẤN
-    + NGUYỄN NHẬT TÙNG
-    + NGUYỄN QUỐC BẢO
+*   MAI THANH TUẤN
+*   NGUYỄN NHẬT TÙNG
+*   NGUYỄN QUỐC BẢO
