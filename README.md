@@ -14,6 +14,12 @@ Trước khi tiếp tục chạy file python, hãy đảm bảo bạn đáp ứn
 *       pip install seaborn
 *       pip install pandas
 
+**Link tableau phục vụ trong việc quản lí khách hàng và doanh thu của các cửa hàng**
+
+* Customer Dashboard:https://public.tableau.com/app/profile/stevenguyen/viz/Customer_profileDataGotalent/Dashboard1?publish=yes
+
+* Sale Dashboard: https://public.tableau.com/app/profile/stevenguyen/viz/SaleDashboard_16426669972250/Dashboard1?publish=yes
+
 **Nhóm Novice- 3 thành viên**
 *   MAI THANH TUẤN
 *   NGUYỄN NHẬT TÙNG
