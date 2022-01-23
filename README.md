@@ -1,5 +1,4 @@
 # Data-Gotatalent🔥🔥🔥
-Nhóm Novice- 3 thành viên
 
 **Tóm tắt dự án**
 Phân tích dữ liệu của thị trường laptop. Với mục tiêu: tìm kiếm những vấn đề tồn đọng trong dữ liệu thông qua việc trực quan hóa data, để từ đó tìm ra giải pháp cho các vấn đề.
@@ -13,7 +12,7 @@ Trước khi tiếp tục chạy file python, hãy đảm bảo bạn đáp ứn
 *       pip install seaborn
 *       pip install pandas
 
-**Những người đóng góp**
+**Nhóm Novice- 3 thành viên**
 *   MAI THANH TUẤN
 *   NGUYỄN NHẬT TÙNG
 *   NGUYỄN QUỐC BẢO
